@@ -1,0 +1,21 @@
+.nav-bar{
+    text-decoration: none;
+    color: white;
+}
+
+.app-nav{
+    display: flex;
+    justify-content: space-around;
+    width: 50%;
+    margin: 1rem auto;
+}
+
+.Reactrouter{
+    margin-top: 70px;
+}
+
+.active-bar{
+    color: #ffd6ba;
+    border-bottom-width: 1px;
+    border-bottom: 2px solid #ffd6ba;
+}
